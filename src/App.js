@@ -1,13 +1,11 @@
 import React, { Component } from 'react'
-import logo from './logo.svg'
-import './App.css'
 const data = require('./data')
 
 console.log(data)
 
 class App extends Component {
 
-  state = { dir: data }
+state = { dir: data }
 
 handleFirstAZ = _ => {
   let dir = JSON.parse(JSON.stringify(this.state.dir))
@@ -15,22 +13,22 @@ handleFirstAZ = _ => {
   this.setState({ dir: dir })
 }
 
-  handleFirstZA = _ => {
-    let dir = JSON.parse(JSON.stringify(this.state.dir))
-    dir.sort((b, a) => a.first_name.localeCompare(b.first_name))
-    this.setState({ dir: dir })
+handleFirstZA = _ => {
+  let dir = JSON.parse(JSON.stringify(this.state.dir))
+  dir.sort((b, a) => a.first_name.localeCompare(b.first_name))
+  this.setState({ dir: dir })
 }
 
-  handleLastAZ = _ => {
-    let dir = JSON.parse(JSON.stringify(this.state.dir))
-    dir.sort((a, b) => a.last_name.localeCompare(b.last_name))
-    this.setState({ dir: dir })
+handleLastAZ = _ => {
+  let dir = JSON.parse(JSON.stringify(this.state.dir))
+  dir.sort((a, b) => a.last_name.localeCompare(b.last_name))
+  this.setState({ dir: dir })
 }
 
-  handleLastZA = _ => {
-    let dir = JSON.parse(JSON.stringify(this.state.dir))
-    dir.sort((b, a) => a.last_name.localeCompare(b.last_name))
-    this.setState({ dir: dir })
+handleLastZA = _ => {
+  let dir = JSON.parse(JSON.stringify(this.state.dir))
+  dir.sort((b, a) => a.last_name.localeCompare(b.last_name))
+  this.setState({ dir: dir })
 }
 
 handleStateFilter = ({ target }) => {
@@ -51,7 +49,7 @@ handleStateFilter = ({ target }) => {
     case 'OR':
       dir = data.filter((a) => (a.state === 'Oregon'))
       break
-    case 'All':
+    default:
       dir = data
       break
     }
