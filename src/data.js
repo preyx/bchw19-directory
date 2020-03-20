@@ -1,0 +1,301 @@
+module.exports = JSON.parse(`[{
+  "id": 1,
+  "first_name": "Verine",
+  "last_name": "Beddo",
+  "email": "vbeddo0@columbia.edu",
+  "state": "California"
+}, {
+  "id": 2,
+  "first_name": "Ofella",
+  "last_name": "McLeman",
+  "email": "omcleman1@wiley.com",
+  "state": "California"
+}, {
+  "id": 3,
+  "first_name": "Sissie",
+  "last_name": "Elphinston",
+  "email": "selphinston2@discovery.com",
+  "state": "California"
+}, {
+  "id": 4,
+  "first_name": "Nevsa",
+  "last_name": "Guidoni",
+  "email": "nguidoni3@spotify.com",
+  "state": "California"
+}, {
+  "id": 5,
+  "first_name": "Clareta",
+  "last_name": "Baggally",
+  "email": "cbaggally4@exblog.jp",
+  "state": "California"
+}, {
+  "id": 6,
+  "first_name": "Stevy",
+  "last_name": "Ledner",
+  "email": "sledner5@fastcompany.com",
+  "state": "Washington"
+}, {
+  "id": 7,
+  "first_name": "Benyamin",
+  "last_name": "McMyler",
+  "email": "bmcmyler6@youtu.be",
+  "state": "California"
+}, {
+  "id": 8,
+  "first_name": "Bonnibelle",
+  "last_name": "Anan",
+  "email": "banan7@apple.com",
+  "state": "Washington"
+}, {
+  "id": 9,
+  "first_name": "Neda",
+  "last_name": "Bartosch",
+  "email": "nbartosch8@paypal.com",
+  "state": "California"
+}, {
+  "id": 10,
+  "first_name": "Joseito",
+  "last_name": "Lansbury",
+  "email": "jlansbury9@stanford.edu",
+  "state": "California"
+}, {
+  "id": 11,
+  "first_name": "Sheena",
+  "last_name": "MacLleese",
+  "email": "smaclleesea@statcounter.com",
+  "state": "California"
+}, {
+  "id": 12,
+  "first_name": "Michaela",
+  "last_name": "Emerson",
+  "email": "memersonb@yolasite.com",
+  "state": "California"
+}, {
+  "id": 13,
+  "first_name": "Lucais",
+  "last_name": "Emerton",
+  "email": "lemertonc@wired.com",
+  "state": "Washington"
+}, {
+  "id": 14,
+  "first_name": "Randie",
+  "last_name": "Anelay",
+  "email": "ranelayd@naver.com",
+  "state": "California"
+}, {
+  "id": 15,
+  "first_name": "Christalle",
+  "last_name": "Makin",
+  "email": "cmakine@adobe.com",
+  "state": "Washington"
+}, {
+  "id": 16,
+  "first_name": "Ainslee",
+  "last_name": "Nutbeam",
+  "email": "anutbeamf@naver.com",
+  "state": "Arizona"
+}, {
+  "id": 17,
+  "first_name": "Carleton",
+  "last_name": "Point",
+  "email": "cpointg@bizjournals.com",
+  "state": "Washington"
+}, {
+  "id": 18,
+  "first_name": "Rockwell",
+  "last_name": "Portigall",
+  "email": "rportigallh@wikispaces.com",
+  "state": "California"
+}, {
+  "id": 19,
+  "first_name": "Rupert",
+  "last_name": "Litchfield",
+  "email": "rlitchfieldi@google.com.br",
+  "state": "California"
+}, {
+  "id": 20,
+  "first_name": "Brucie",
+  "last_name": "Cockshott",
+  "email": "bcockshottj@reddit.com",
+  "state": "California"
+}, {
+  "id": 21,
+  "first_name": "Abba",
+  "last_name": "Bartholin",
+  "email": "abartholink@time.com",
+  "state": "Washington"
+}, {
+  "id": 22,
+  "first_name": "Alejandra",
+  "last_name": "Bache",
+  "email": "abachel@apple.com",
+  "state": "Washington"
+}, {
+  "id": 23,
+  "first_name": "Lia",
+  "last_name": "Snare",
+  "email": "lsnarem@mozilla.org",
+  "state": "Oregon"
+}, {
+  "id": 24,
+  "first_name": "Maddi",
+  "last_name": "Lardeux",
+  "email": "mlardeuxn@nydailynews.com",
+  "state": "California"
+}, {
+  "id": 25,
+  "first_name": "Barbie",
+  "last_name": "Crombleholme",
+  "email": "bcrombleholmeo@alexa.com",
+  "state": "Oregon"
+}, {
+  "id": 26,
+  "first_name": "Ardelle",
+  "last_name": "Vassall",
+  "email": "avassallp@51.la",
+  "state": "California"
+}, {
+  "id": 27,
+  "first_name": "Annissa",
+  "last_name": "Lochet",
+  "email": "alochetq@yellowbook.com",
+  "state": "Oregon"
+}, {
+  "id": 28,
+  "first_name": "Cary",
+  "last_name": "Petyt",
+  "email": "cpetytr@dropbox.com",
+  "state": "California"
+}, {
+  "id": 29,
+  "first_name": "Marsh",
+  "last_name": "Maggiori",
+  "email": "mmaggioris@pinterest.com",
+  "state": "California"
+}, {
+  "id": 30,
+  "first_name": "Dorree",
+  "last_name": "Rutherforth",
+  "email": "drutherfortht@google.es",
+  "state": "California"
+}, {
+  "id": 31,
+  "first_name": "Carlin",
+  "last_name": "Djurkovic",
+  "email": "cdjurkovicu@qq.com",
+  "state": "California"
+}, {
+  "id": 32,
+  "first_name": "Neely",
+  "last_name": "Shattock",
+  "email": "nshattockv@gmpg.org",
+  "state": "California"
+}, {
+  "id": 33,
+  "first_name": "Terrence",
+  "last_name": "Fay",
+  "email": "tfayw@yelp.com",
+  "state": "California"
+}, {
+  "id": 34,
+  "first_name": "Lay",
+  "last_name": "Tubbles",
+  "email": "ltubblesx@thetimes.co.uk",
+  "state": "Arizona"
+}, {
+  "id": 35,
+  "first_name": "Petronella",
+  "last_name": "Wimms",
+  "email": "pwimmsy@mac.com",
+  "state": "California"
+}, {
+  "id": 36,
+  "first_name": "Alexis",
+  "last_name": "Patten",
+  "email": "apattenz@github.com",
+  "state": "California"
+}, {
+  "id": 37,
+  "first_name": "Bari",
+  "last_name": "Radband",
+  "email": "bradband10@cargocollective.com",
+  "state": "California"
+}, {
+  "id": 38,
+  "first_name": "Harmonia",
+  "last_name": "Deville",
+  "email": "hdeville11@forbes.com",
+  "state": "California"
+}, {
+  "id": 39,
+  "first_name": "Lin",
+  "last_name": "Kerford",
+  "email": "lkerford12@prnewswire.com",
+  "state": "California"
+}, {
+  "id": 40,
+  "first_name": "Jill",
+  "last_name": "Harrell",
+  "email": "jharrell13@pagesperso-orange.fr",
+  "state": "California"
+}, {
+  "id": 41,
+  "first_name": "Kasper",
+  "last_name": "Ankers",
+  "email": "kankers14@lycos.com",
+  "state": "California"
+}, {
+  "id": 42,
+  "first_name": "Farrell",
+  "last_name": "Warlawe",
+  "email": "fwarlawe15@java.com",
+  "state": "California"
+}, {
+  "id": 43,
+  "first_name": "Harlan",
+  "last_name": "Brotherhood",
+  "email": "hbrotherhood16@ning.com",
+  "state": "Arizona"
+}, {
+  "id": 44,
+  "first_name": "Gabby",
+  "last_name": "Rawne",
+  "email": "grawne17@auda.org.au",
+  "state": "Arizona"
+}, {
+  "id": 45,
+  "first_name": "Roanna",
+  "last_name": "Iannuzzi",
+  "email": "riannuzzi18@bandcamp.com",
+  "state": "California"
+}, {
+  "id": 46,
+  "first_name": "Fionnula",
+  "last_name": "Dingate",
+  "email": "fdingate19@youtu.be",
+  "state": "California"
+}, {
+  "id": 47,
+  "first_name": "Andriette",
+  "last_name": "Kellar",
+  "email": "akellar1a@biblegateway.com",
+  "state": "California"
+}, {
+  "id": 48,
+  "first_name": "Ella",
+  "last_name": "Lewinton",
+  "email": "elewinton1b@cbsnews.com",
+  "state": "California"
+}, {
+  "id": 49,
+  "first_name": "Schuyler",
+  "last_name": "Le Brum",
+  "email": "slebrum1c@linkedin.com",
+  "state": "Arizona"
+}, {
+  "id": 50,
+  "first_name": "Elfreda",
+  "last_name": "Hancox",
+  "email": "ehancox1d@tinypic.com",
+  "state": "Arizona"
+}]`)
